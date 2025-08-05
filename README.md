@@ -2,7 +2,7 @@
 
 An interactive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript** with a clean UI and glowing button animations. Play against a friend locally and enjoy smooth gameplay with instant win/draw detection!  
 
-🚀 **[Play the Game Here]([https://your-deploy-link.com/](https://tic-tac-toe-1ob6.onrender.com))**  
+🚀 [Play the Game Here]([https://your-deploy-link.com/](https://tic-tac-toe-1ob6.onrender.com))
 
 ---
 
